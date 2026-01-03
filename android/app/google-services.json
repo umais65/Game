@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631008849296",
+    "project_id": "project-hell-750ea",
+    "storage_bucket": "project-hell-750ea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631008849296:android:91d7874ad5ee477bef5715",
+        "android_client_info": {
+          "package_name": "com.antigravity.game_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACL77rmmNOM_M1jD2PqMq5HEYPSU0s328"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
